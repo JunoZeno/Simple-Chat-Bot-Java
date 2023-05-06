@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot (Java)/task" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Chocolate" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The condition to travel around the world" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Existing operators" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Is between" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Job offer" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/From sum to product" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Size of parts" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Statements" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
